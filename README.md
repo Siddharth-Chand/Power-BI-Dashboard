@@ -8,6 +8,9 @@ Utilized technical skills including Power BI, KPI, data cleaning, Power Query, a
 Insights
 
 Total 237 employee left the organisation i.e 16.1 attrition rate.
+
 Out of 237 people who left the organisation, 163 people i.e. 68.8 % who left the company had salary less than 5k.
+
 Based on job role, attrition from lab technician department was highest.
+
 Observed spikes in attrition after a employee completed 2, 5, 10 years of experience in the company.
