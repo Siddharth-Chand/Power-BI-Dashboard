@@ -1,8 +1,10 @@
 # Power-BI-Dashboard
 HR_Analytics Dashboard using PowerBI
 
-Developed an insightful HR Analytics dashboard using Power BI to provide insights to the HR team regarding the attrition in the company
+Developed an insightful HR Analytics dashboard using Power BI to provide insights to the HR team regarding the attrition in the company.
+
 Built interactive dashboards with charts, graphs, and KPIs (such as Attrition Rate , average salary, total Employees) to effectively present HR data.
+
 Utilized technical skills including Power BI, KPI, data cleaning, Power Query, and data visualization techniques through bar charts, column charts, pie charts, donut charts, and heatmaps.
 
 Insights
